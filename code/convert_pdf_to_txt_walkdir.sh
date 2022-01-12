@@ -57,4 +57,4 @@ walk_dir $1
 echo done!
 
 # What to type in command line:
-# sbatch test.sh /project/kh_mercury_1/channels_in_macro/data/papers_pdf
+# sbatch convert_pdf_to_txt_walkdir.sh /project/kh_mercury_1/channels_in_macro/data/papers_pdf
