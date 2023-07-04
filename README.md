@@ -6,7 +6,7 @@ Channels in Macro Papers - How is the word "channel" used in macroeconomic paper
 
 - Download all papers from top 5 macro journals published in 2015-2021 and collate metadata (identifiers). The journals are: AER, Econometrica, JPE, QJE and RES.
 - Identify paragraphs in macro papers that contain the word 'channel'.
-- Also, get the number of citations for each paper using Google Scholar.
+- Also, get the number of citations for each paper using Google Scholar. This step is particularly difficult because Google Scholar will force you to do captcha tests every so often and will even block your IP address after you have many "too many queries" in a short period of time. The solution I used is to query Google Scholar using a Tor browser with changing IP addresses and to alert you with a sound whenever a captcha appears (so that you can solve it manually).
 - Compile summary statistics.
 
 ## Folder directory
