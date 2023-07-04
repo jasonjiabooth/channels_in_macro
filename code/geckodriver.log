@@ -1,0 +1,1449 @@
+1642593783595	geckodriver	INFO	Listening on 127.0.0.1:59363
+1642593786695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59364" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile8fTNwF"
+1642593787306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile8fTNwF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59364/devtools/browser/a9f3f29e-463d-4ec8-acbb-f6d9cc23f1b8
+1642593789869	Marionette	INFO	Listening on port 59369
+1642593789910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642596021900	Marionette	INFO	Stopped listening on port 59369
+1642596601686	geckodriver	INFO	Listening on 127.0.0.1:56315
+1642596604751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56316" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilejHh2LM"
+1642596605317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilejHh2LM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56316/devtools/browser/3883a398-284c-43a2-b336-d98fbbcc9a88
+1642596607320	Marionette	INFO	Listening on port 56321
+1642596607462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1642596639478	Marionette	INFO	Stopped listening on port 56321
+1642596690860	geckodriver	INFO	Listening on 127.0.0.1:56543
+1642596693931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56544" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilendDmwR"
+1642596694504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilendDmwR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56544/devtools/browser/3c17fef7-63af-42ea-a4b2-9e0b635ce177
+1642596696701	Marionette	INFO	Listening on port 56549
+1642596697154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642597920495	Marionette	INFO	Stopped listening on port 56549
+1642599814259	geckodriver	INFO	Listening on 127.0.0.1:63262
+1642599817327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63263" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilevVrQcb"
+1642599817884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilevVrQcb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63263/devtools/browser/d80eac49-eb03-41d6-8e51-d1576a1a0a81
+1642599819937	Marionette	INFO	Listening on port 63268
+1642599820050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642599835338	Marionette	INFO	Stopped listening on port 63268
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642599898425	geckodriver	INFO	Listening on 127.0.0.1:63339
+1642599901487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63340" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJS6WZ5"
+1642599902042	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJS6WZ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63340/devtools/browser/b0004302-361b-4d37-9dd5-844bf86fe6a6
+1642599904261	Marionette	INFO	Listening on port 63345
+1642599904695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642600277438	Marionette	INFO	Stopped listening on port 63345
+1642600325191	geckodriver	INFO	Listening on 127.0.0.1:64868
+1642600328255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64869" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilewl6AfX"
+1642600328821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilewl6AfX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64869/devtools/browser/09c4b608-d779-4468-ab42-31d7ecde0abf
+1642600330916	Marionette	INFO	Listening on port 64874
+1642600330955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642600368735	Marionette	INFO	Stopped listening on port 64874
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642601884956	geckodriver	INFO	Listening on 127.0.0.1:50297
+1642601888049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50298" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilet5km3X"
+1642601888605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilet5km3X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50298/devtools/browser/495544a9-e6b5-4ddd-9044-857555bb7a26
+1642601890628	Marionette	INFO	Listening on port 50304
+1642601890743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642603625813	Marionette	INFO	Stopped listening on port 50304
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50364" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJeVq7v"
+1642601903057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJeVq7v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50364/devtools/browser/1c53eeb5-743f-4398-ac20-ee3a02dc679c
+1642601905209	Marionette	INFO	Listening on port 50369
+1642601905665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642603626709	Marionette	INFO	Stopped listening on port 50369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+lewOpVBc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51498/devtools/browser/fcb9d1c1-07b6-4224-827b-0603cc0f4039
+1642603388828	Marionette	INFO	Listening on port 51503
+1642603389339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642603629257	Marionette	INFO	Stopped listening on port 51503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileqo2BsY"
+1642603424142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileqo2BsY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51568/devtools/browser/643ab512-5acb-4064-bdae-3a5d7864c3e4
+1642603426454	Marionette	INFO	Listening on port 51573
+1642603426769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642603490682	Marionette	INFO	Stopped listening on port 51573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileWggf1u"
+1642603463815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileWggf1u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55246/devtools/browser/56030454-ddb4-4ded-b4f6-58e818de5311
+1642603465969	Marionette	INFO	Listening on port 55251
+1642603466437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642603485485	Marionette	INFO	Stopped listening on port 55251
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642603520731	geckodriver	INFO	Listening on 127.0.0.1:55329
+1642603523804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55330" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile7MeSOu"
+1642603524370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile7MeSOu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55330/devtools/browser/39857847-8b9f-4353-9a83-8f33c4d91fe4
+1642603526416	Marionette	INFO	Listening on port 55335
+1642603526497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642603535167	Marionette	INFO	Stopped listening on port 55335
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642603623366	geckodriver	INFO	Listening on 127.0.0.1:55408
+1642603626438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55409" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile93HUGH"
+1642603627078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile93HUGH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55409/devtools/browser/eca48834-c32c-4131-9dc0-0e4536bade36
+1642603629259	Marionette	INFO	Listening on port 55415
+1642603629655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642603640447	Marionette	INFO	Stopped listening on port 55415
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642604975971	geckodriver	INFO	Listening on 127.0.0.1:52801
+1642604979045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52802" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileBWiqBh"
+1642604979624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileBWiqBh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52802/devtools/browser/f870c058-8bcd-4139-8196-3407a0c1bb42
+1642604981654	Marionette	INFO	Listening on port 52807
+1642604981771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642605004981	Marionette	INFO	Stopped listening on port 52807
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642610602030	geckodriver	INFO	Listening on 127.0.0.1:52533
+1642610605060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52534" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilegP6yb9"
+1642610605748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilegP6yb9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52534/devtools/browser/3e3aa19a-0115-4f07-baaa-23093d4826ca
+1642610607834	Marionette	INFO	Listening on port 52539
+1642610607877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642610666832	Marionette	INFO	Stopped listening on port 52539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52622" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile8fjxMx"
+1642610664841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile8fjxMx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52622/devtools/browser/65a0e746-e024-478b-8d43-dc0dd112c053
+1642610667340	Marionette	INFO	Listening on port 52627
+1642610667471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642610695860	Marionette	INFO	Stopped listening on port 52627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure 1642610696390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilewxuy7y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52691/devtools/browser/6a3956ab-c0a1-4869-a337-3419b10d9cdb
+1642610698633	Marionette	INFO	Listening on port 52696
+1642610698879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642611559807	Marionette	INFO	Stopped listening on port 52696
+1642611560675	geckodriver	INFO	Listening on 127.0.0.1:53176
+1642611563761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53177" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiledgyJRz"
+1642611564323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiledgyJRz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53177/devtools/browser/642c21fb-57e9-44bc-b7f2-4f23aeaa19a0
+1642611566433	Marionette	INFO	Listening on port 53182
+1642611566471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642611999410	Marionette	INFO	Stopped listening on port 53182
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642612070646	geckodriver	INFO	Listening on 127.0.0.1:50062
+1642612073707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50063" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileMaCqD2"
+1642612074260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileMaCqD2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50063/devtools/browser/445c8e6a-e3fc-4b21-b059-25a201c43b31
+1642612076418	Marionette	INFO	Listening on port 50068
+1642612076917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642612109163	Marionette	INFO	Stopped listening on port 50068
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642612910002	geckodriver	INFO	Listening on 127.0.0.1:56250
+1642612913059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56251" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile9RefwN"
+1642612913629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile9RefwN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56251/devtools/browser/897fcb7c-6fca-45d8-8c7a-65578102621c
+1642612915791	Marionette	INFO	Listening on port 56261
+1642612916256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642613182894	Marionette	INFO	Stopped listening on port 56261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofiletWhqDm"
+1642612957089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiletWhqDm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54627/devtools/browser/e397f06c-c610-47a1-8f7d-117ee26f1d1a
+1642612959827	Marionette	INFO	Listening on port 54634
+1642612960157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642613184484	Marionette	INFO	Stopped listening on port 54634
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofiler5ktdQ"
+1642613129571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiler5ktdQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64234/devtools/browser/11417f2d-548f-4327-ad23-f24035d0315a
+1642613131728	Marionette	INFO	Listening on port 64240
+1642613132212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642614541438	Marionette	INFO	Stopped listening on port 64240
+1642616146856	geckodriver	INFO	Listening on 127.0.0.1:65121
+1642616149911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65122" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileeLvVQU"
+1642616150575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileeLvVQU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65122/devtools/browser/d94ac056-d18b-494e-999d-66d771b1057f
+1642616152649	Marionette	INFO	Listening on port 65127
+1642616152700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642616153407	Marionette	INFO	Stopped listening on port 65127
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+1642616253276	geckodriver	INFO	Listening on 127.0.0.1:65228
+1642616256354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65229" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilecnpWYJ"
+1642616256924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilecnpWYJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65229/devtools/browser/c7b5d843-b972-4c88-bbcb-7dfebe1d6cb3
+1642616259097	Marionette	INFO	Listening on port 65234
+1642616259569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642616265949	Marionette	INFO	Stopped listening on port 65234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642616376365	geckodriver	INFO	Listening on 127.0.0.1:50808
+1642616379410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50809" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJHCeB9"
+1642616379992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJHCeB9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50809/devtools/browser/effb42c3-a2d4-4286-9375-971c3e13bd09
+1642616382440	Marionette	INFO	Listening on port 50814
+1642616382605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642616399587	Marionette	INFO	Stopped listening on port 50814
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642616435272	geckodriver	INFO	Listening on 127.0.0.1:50879
+1642616438337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50880" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileQp9X2s"
+1642616438892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileQp9X2s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50880/devtools/browser/1c7cb379-f460-49a2-ba00-62b47cf84dd5
+1642616441054	Marionette	INFO	Listening on port 50885
+1642616441522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642618998206	Marionette	INFO	Stopped listening on port 50885
+1642619143396	geckodriver	INFO	Listening on 127.0.0.1:51057
+1642619146482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51058" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile3WVllo"
+1642619147049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile3WVllo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51058/devtools/browser/30ad9592-bfd6-488b-820d-c69cfd1047d0
+1642619149132	Marionette	INFO	Listening on port 51063
+1642619149178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642624885983	Marionette	INFO	Stopped listening on port 51063
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642627640905	geckodriver	INFO	Listening on 127.0.0.1:57181
+1642627643981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57182" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilecEcebJ"
+1642627644643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilecEcebJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57182/devtools/browser/e3a905e7-ae62-4586-ae28-b01007075633
+1642627646832	Marionette	INFO	Listening on port 57192
+1642627647272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642629269835	Marionette	INFO	Stopped listening on port 57192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileC7Eoyn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65519/devtools/browser/69ac8363-42e0-4f72-b77e-4d4ffa5c9520
+1642629252571	Marionette	INFO	Listening on port 65524
+1642629252903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642629267926	Marionette	INFO	Stopped listening on port 65524
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642629320187	geckodriver	INFO	Listening on 127.0.0.1:49219
+1642629323248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49220" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileY7Iwvm"
+1642629323806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileY7Iwvm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49220/devtools/browser/04fb6000-b94f-4a33-b171-74e00808f623
+1642629325881	Marionette	INFO	Listening on port 49225
+1642629325926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642629338795	Marionette	INFO	Stopped listening on port 49225
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642629530348	geckodriver	INFO	Listening on 127.0.0.1:52201
+1642629533451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52202" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileTp3uoA"
+1642629534026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileTp3uoA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52202/devtools/browser/4483f8c6-4b1c-47f4-aaa8-af1687f4f886
+1642629536069	Marionette	INFO	Listening on port 52207
+1642629536155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642629548978	Marionette	INFO	Stopped listening on port 52207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642629727896	geckodriver	INFO	Listening on 127.0.0.1:52289
+1642629730982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52290" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileKfb2Q8"
+1642629731545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileKfb2Q8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52290/devtools/browser/3153946b-d4fe-4ea0-938a-fd7587c27875
+1642629733611	Marionette	INFO	Listening on port 52295
+1642629733677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642629746926	Marionette	INFO	Stopped listening on port 52295
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642629889787	geckodriver	INFO	Listening on 127.0.0.1:52367
+1642629892875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52368" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilePJITnE"
+1642629893437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilePJITnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52368/devtools/browser/abf1894f-3827-4e72-94af-8298a1a0b8d9
+1642629895482	Marionette	INFO	Listening on port 52373
+1642629895560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642629921782	Marionette	INFO	Stopped listening on port 52373
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642629961910	geckodriver	INFO	Listening on 127.0.0.1:52460
+1642629964986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52461" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiles7Kblr"
+1642629965561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiles7Kblr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52461/devtools/browser/27e9c2d6-3516-4e2f-a616-54ad8c38751c
+1642629967906	Marionette	INFO	Listening on port 52466
+1642629968207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642629971249	Marionette	INFO	Stopped listening on port 52466
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642629988356	geckodriver	INFO	Listening on 127.0.0.1:52542
+1642629991438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52543" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile6jBmUG"
+1642629992001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile6jBmUG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52543/devtools/browser/f780dd3f-05dd-4961-9785-c741c1753d60
+1642629994110	Marionette	INFO	Listening on port 52548
+1642629994134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642630245791	Marionette	INFO	Stopped listening on port 52548
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642630259672	geckodriver	INFO	Listening on 127.0.0.1:57159
+1642630262756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57160" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilepGGIAh"
+1642630263332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilepGGIAh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57160/devtools/browser/8ff6f489-c4cd-45e6-ad0c-fb18a3da0aa3
+1642630265508	Marionette	INFO	Listening on port 57165
+1642630265948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642638661349	Marionette	INFO	Stopped listening on port 57165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+lewlGU4z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50712/devtools/browser/74b8ec4b-b08a-4d00-9598-bd83c404948b
+1642638360489	Marionette	INFO	Listening on port 50717
+1642638360549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642638662282	Marionette	INFO	Stopped listening on port 50717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileLsfBcH"
+1642638429926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileLsfBcH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59137/devtools/browser/65e2d7ce-9f42-48b1-93b8-fdb49ada0d19
+1642638432247	Marionette	INFO	Listening on port 59142
+1642638432584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642638663307	Marionette	INFO	Stopped listening on port 59142
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofilePAUXgY"
+1642638574260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilePAUXgY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59243/devtools/browser/42e1dae7-e532-408b-8c96-0ef54012d313
+1642638576538	Marionette	INFO	Listening on port 49927
+1642638576863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642638664382	Marionette	INFO	Stopped listening on port 49927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileKiXVUv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60233/devtools/browser/19cd6e67-b66c-476d-9264-ffeb2049ac7d
+1642638664037	Marionette	INFO	Listening on port 60238
+1642638664325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642641877949	Marionette	INFO	Stopped listening on port 60238
+1642703715229	geckodriver	INFO	Listening on 127.0.0.1:62939
+1642703718339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62940" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileCOIKkg"
+1642703718972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileCOIKkg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62940/devtools/browser/4594232d-56e4-4e9a-bdaf-e7095be8a3e5
+1642703721729	Marionette	INFO	Listening on port 62945
+1642703722076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642704407640	Marionette	INFO	Stopped listening on port 62945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55259" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilebMmRgg"
+1642703857674	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilebMmRgg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55259/devtools/browser/55c6ede1-c291-4bd9-a7f8-8f1ab8a91c7a
+1642703860146	Marionette	INFO	Listening on port 55264
+1642703860284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642704408505	Marionette	INFO	Stopped listening on port 5526164console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofilelXbMZF"
+1642704409277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilelXbMZF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60903/devtools/browser/f949e100-67a5-43ca-80c7-4c5ea5b0348c
+1642704411707	Marionette	INFO	Listening on port 60908
+1642704411821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642704473927	Marionette	INFO	Stopped listening on port 60908
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileye7pdk"
+1642704453743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileye7pdk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61002/devtools/browser/4c138747-a8ac-4051-8609-85cef6054e2d
+1642704455940	Marionette	INFO	Listening on port 61007
+1642704456370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642705251147	Marionette	INFO	Stopped listening on port 61007
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileCBUCoA"
+1642705250995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileCBUCoA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54854/devtools/browser/7227f915-e776-45eb-8e33-66302ceca36e
+1642705253439	Marionette	INFO	Listening on port 54859
+1642705253606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642705420943	Marionette	INFO	Stopped listening on port 54859
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+418763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileBhiSbQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56428/devtools/browser/f5450f00-371b-4014-8d0e-29d592722745
+1642705421123	Marionette	INFO	Listening on port 56434
+1642705421376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://scholar.google.com"
+1642705543777	Marionette	INFO	Stopped listening on port 56434
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642706165936	geckodriver	INFO	Listening on 127.0.0.1:61620
+1642706169018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61621" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileVot52y"
+1642706169690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileVot52y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61621/devtools/browser/fd0a7de6-af5a-40dd-8923-41ecb0721133
+1642706171848	Marionette	INFO	Listening on port 61626
+1642706172300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642706192279	Marionette	INFO	Stopped listening on port 61626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642708749127	geckodriver	INFO	Listening on 127.0.0.1:63252
+1642708752216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63253" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileo3b6hE"
+1642708752783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileo3b6hE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63253/devtools/browser/05178f2e-3247-4c23-a874-6a2c6d782ff4
+1642708754851	Marionette	INFO	Listening on port 63258
+1642708754931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642708763191	Marionette	INFO	Stopped listening on port 63258
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642708814361	geckodriver	INFO	Listening on 127.0.0.1:63346
+1642708817450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63347" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilekDYKHZ"
+1642708818007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilekDYKHZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63347/devtools/browser/a660c027-fc67-454c-ae0a-d95c85fdce0e
+1642708820014	Marionette	INFO	Listening on port 63352
+1642708820121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642708825724	Marionette	INFO	Stopped listening on port 63352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642730880665	geckodriver	INFO	Listening on 127.0.0.1:59594
+1642730885131	mozrunner::runner	INFO	Running command: "C:\\Users\\jasonjia\\OneDrive - The University of Chicago\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "59595" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilejmDp7b"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642730886054	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:59595/devtools/browser/7d2e7bf2-fe2e-41a0-b6d2-e933af280bfa
+1642730887647	Marionette	INFO	Listening on port 59601
+1642730887930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+1642730891645	Marionette	INFO	Stopped listening on port 59601
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642730892027	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642730898844	geckodriver	INFO	Listening on 127.0.0.1:59639
+1642730903102	mozrunner::runner	INFO	Running command: "C:\\Users\\jasonjia\\OneDrive - The University of Chicago\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "59640" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile2v0SOK"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642730903744	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:59640/devtools/browser/8a0f3047-da52-4b05-9fad-388f23d03444
+1642730905019	Marionette	INFO	Listening on port 59647
+1642730905187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+1642730936178	Marionette	INFO	Stopped listening on port 59647
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642730936454	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642730938599	geckodriver	INFO	Listening on 127.0.0.1:59668
+1642730942860	mozrunner::runner	INFO	Running command: "C:\\Users\\jasonjia\\OneDrive - The University of Chicago\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "59669" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileubYBMZ"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642730943509	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:59669/devtools/browser/86d15ce2-c8ab-4db7-ae70-77959d4f4f56
+1642730944815	Marionette	INFO	Listening on port 59674
+1642730944953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+1642730956627	Marionette	INFO	Stopped listening on port 59674
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642730956924	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642731206469	geckodriver	INFO	Listening on 127.0.0.1:59799
+1642731210520	mozrunner::runner	INFO	Running command: "C:\\Users\\jasonjia\\OneDrive - The University of Chicago\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "59800" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileIfO8iK"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642731211181	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 575: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+DevTools listening on ws://localhost:59800/devtools/browser/f3dd1446-9714-4920-ba6f-f3a62873c74a
+1642731212562	Marionette	INFO	Listening on port 59806
+1642731212617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+1642731225191	Marionette	INFO	Stopped listening on port 59806
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642731225475	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ (t=3.83868) [GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-21T02:18:07Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+alError: |[G0][GFX1-]: shader-cache: Shader disk cache is not supported (t=4.13623) [GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-21T02:48:22Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642733426958	geckodriver	INFO	Listening on 127.0.0.1:55115
+1642733430005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55116" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileIlvOBE"
+1642733430572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileIlvOBE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55116/devtools/browser/47133da9-e8cc-4121-bbb3-75c527591a54
+1642733432623	Marionette	INFO	Listening on port 55121
+1642733432709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733436468	Marionette	INFO	Stopped listening on port 55121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642733445571	geckodriver	INFO	Listening on 127.0.0.1:55213
+1642733448620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55214" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilejQd3Ou"
+1642733449194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilejQd3Ou\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55214/devtools/browser/abf36241-82a9-4a37-9f78-7f0ba804feb7
+1642733451268	Marionette	INFO	Listening on port 55219
+1642733451305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733543956	Marionette	INFO	Stopped listening on port 55219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileYEqcVL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55274/devtools/browser/7d04384a-77dc-4909-b8ad-7f07d2db4a6c
+1642733461012	Marionette	INFO	Listening on port 55280
+1642733461077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733463768	Marionette	INFO	Stopped listening on port 55280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642733741432	geckodriver	INFO	Listening on 127.0.0.1:49722
+1642733744512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49723" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileoyyuTP"
+1642733745085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileoyyuTP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49723/devtools/browser/880d4120-dd50-420e-878a-22b3ab4e0b54
+1642733747151	Marionette	INFO	Listening on port 49729
+1642733747204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733748334	Marionette	INFO	Stopped listening on port 49729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642733773055	geckodriver	INFO	Listening on 127.0.0.1:49785
+1642733776104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49786" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileF4nXGX"
+1642733776679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileF4nXGX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49786/devtools/browser/e1c1a75e-c844-43aa-97c8-39b91e93c246
+1642733778709	Marionette	INFO	Listening on port 49791
+1642733778802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733799404	Marionette	INFO	Stopped listening on port 49791
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642733784053	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:49820/devtools/browser/f44c3da1-052d-4d4c-a32a-0d5fedc3ab46
+1642733785403	Marionette	INFO	Listening on port 49850
+1642733785467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+JavaScript error: resource:///modules/TorConnectParent.jsm, line 94: InvalidStateError: JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource:///modules/TorConnectParent.jsm, line 94: InvalidStateError: JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+1642733817835	Marionette	INFO	Stopped listening on port 49850
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIOutputStream.write]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642733818112	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642733831896	geckodriver	INFO	Listening on 127.0.0.1:49899
+1642733834944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49900" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilePWoUMN"
+1642733835502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilePWoUMN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49900/devtools/browser/1f948314-d241-47a1-bbfa-242a3d354afc
+1642733837503	Marionette	INFO	Listening on port 49905
+1642733837635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733869962	Marionette	INFO	Stopped listening on port 49905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642733842865	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 575: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+DevTools listening on ws://localhost:49936/devtools/browser/3a7602bf-2aeb-470e-af0e-63395d7e9e00
+1642733844182	Marionette	INFO	Listening on port 49967
+1642733844278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+1642733871489	Marionette	INFO	Stopped listening on port 49967
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642733871777	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642733880878	geckodriver	INFO	Listening on 127.0.0.1:50079
+1642733883928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50080" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileSVEdpI"
+1642733884505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileSVEdpI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50080/devtools/browser/8efc9805-1852-4441-ae27-bed38b4e5b84
+1642733886596	Marionette	INFO	Listening on port 50085
+1642733887104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733893357	Marionette	INFO	Stopped listening on port 50085
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642733892389	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 2b243c54763a737d70536f7c355a567a -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:50130/devtools/browser/82a4fddc-2b4f-4b6b-99e0-c7b5a076fde0
+1642733893966	Marionette	INFO	Listening on port 50147
+1642733894439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642733986515	Marionette	INFO	Stopped listening on port 50147
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Componenconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofile69siXL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51911/devtools/browser/faff2df6-19e3-46a5-b6ef-b31487b6a5e6
+1642733988465	Marionette	INFO	Listening on port 51916
+1642733988781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642734039901	Marionette	INFO	Stopped listening on port 51916
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642733988830	geckodriver	INFO	Listening on 127.0.0.1:51946
+1642733991889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51947" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilefR0r6H"
+1642733992442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilefR0r6H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51947/devtools/browser/d68f833e-1134-415a-a54d-50de57be1fd5
+1642733994684	Marionette	INFO	Listening on port 51978
+1642733995079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1642734103201	Marionette	INFO	Stopped listening on port 51978
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\Temp\\rust_mozprofilegdqbEb"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642734101746	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:52074/devtools/browser/db4059cf-cf9e-44bd-9a1a-4e5f258b2770
+1642734103086	Marionette	INFO	Listening on port 52079
+1642734103205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+1642734304672	Marionette	INFO	Stopped listening on port 52079
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642734304758	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642734314394	geckodriver	INFO	Listening on 127.0.0.1:55283
+1642734318781	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "55284" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilewDKhkE"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642734319440	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 6d52447950662a455d476c765a2d377e -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:55284/devtools/browser/ed7cc00b-46b8-4d86-95a4-bdc36ce60a79
+1642734320743	Marionette	INFO	Listening on port 55289
+1642734320864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/TorConnectParent.jsm, line 94: InvalidStateError: JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 6d52447950662a455d476c765a2d377e -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+JavaScript error: resource:///modules/TorConnectParent.jsm, line 94: InvalidStateError: JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment
+console.log: "TorSettings: saveToPrefs()"
+console.log: "TorSettings: applySettings()"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 6d52447950662a455d476c765a2d377e -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+1642734370824	Marionette	INFO	Stopped listening on port 55289
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642734371131	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: shader-cache: Shader disk cache is not supported (t=4.0362) [GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-21T03:11:28Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: shader-cache: Shader disk cache is not supported (t=4.18773) [GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-21T03:12:34Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: shader-cache: Shader disk cache is not supported (t=3.8432) [GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-21T03:18:09Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: shader-cache: Shader disk cache is not supported (t=4.29987) [GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-21T03:22:40Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ (t=3.98421) [GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-21T03:24:51Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ng command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "51767" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileGyGf4C"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642735640230	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileGyGf4C\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:51767/devtools/browser/0fc596fe-f89b-4ac9-87fb-d7effb034f52
+1642735642486	Marionette	INFO	Listening on port 51773
+1642735642795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 117: NS_ERROR_CONNECTION_REFUSED: Component returned failure code: 0x804b000d (NS_ERROR_CONNECTION_REFUSED) [nsIOutputStream.write]
+JavaScript error: chrome://torbutton/content/tor-circuit-display.js, line 478: TypeError: myController is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+1642735648824	Marionette	INFO	Stopped listening on port 51773
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642735649123	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642735658143	geckodriver	INFO	Listening on 127.0.0.1:51827
+1642735661211	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "51828" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilesAJw9G"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642735661843	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 7b622d317a6a6a472d45782251774745 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilesAJw9G\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:51828/devtools/browser/9c40661f-fe2a-4ba0-a1cb-cc7a2b42a632
+1642735663991	Marionette	INFO	Listening on port 51833
+1642735664419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 730: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 730: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 730: TypeError: self._settings is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nteractions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 7b622d317a6a6a472d45782251774745 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 7b622d317a6a6a472d45782251774745 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 7b622d317a6a6a472d45782251774745 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642735779930	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642735799853	geckodriver	INFO	Listening on 127.0.0.1:51912
+1642735802920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "51913" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilerpuWhn"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642735803556	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 286733483f45323c7b244e2531245b2c -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilerpuWhn\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:51913/devtools/browser/e45d9fac-e7dd-468e-90cf-1d847c771849
+1642735805867	Marionette	INFO	Listening on port 51918
+1642735806106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+JavaScript error: resource:///modules/TorSettings.jsm, line 718: TypeError: self._settings is null
+1642735907484	Marionette	INFO	Stopped listening on port 51918
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642735907787	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642736015916	geckodriver	INFO	Listening on 127.0.0.1:52037
+1642736018993	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "52038" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJ1TvK1"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642736019636	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 4e7e772a313971214d7a276a28586723 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileJ1TvK1\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:52038/devtools/browser/e4c9f89e-adf7-4b56-b6fb-899c41c0a47f
+1642736021983	Marionette	INFO	Listening on port 52045
+1642736022204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642737757771	Marionette	INFO	Stopped listening on port 52045
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642737757907	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642737834209	geckodriver	INFO	Listening on 127.0.0.1:52890
+1642737837269	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "52891" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileRAnCNn"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642737837918	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 4a40543f594b4c497b2c3a5b275d2a49 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileRAnCNn\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:52891/devtools/browser/093266a3-84b8-4df2-a282-dd5dab68c0a7
+1642737840235	Marionette	INFO	Listening on port 52896
+1642737840489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642737946615	Marionette	INFO	Stopped listening on port 52896
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642737946720	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642737950392	geckodriver	INFO	Listening on 127.0.0.1:52927
+1642737953484	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "52928" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilewXa5oB"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642737954128	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 2e5850402a714b652371265b542c5e2d -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilewXa5oB\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:52928/devtools/browser/8357ef7c-2e1c-4fae-aa18-2e5ac94d414a
+1642737956369	Marionette	INFO	Listening on port 52933
+1642737956675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642739969217	Marionette	INFO	Stopped listening on port 52933
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642739969330	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642740077716	geckodriver	INFO	Listening on 127.0.0.1:54368
+1642740080799	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "54369" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilegK7GOm"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642740081537	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 386d397d6f715e3b6b6a3b6376662261 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilegK7GOm\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:54369/devtools/browser/7ba438db-e29f-4ca4-99c4-2da78429a840
+1642740083785	Marionette	INFO	Listening on port 54374
+1642740084096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642742040247	Marionette	INFO	Stopped listening on port 54374
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642742040390	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642742142212	geckodriver	INFO	Listening on 127.0.0.1:64747
+1642742145271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "64748" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileyVymNv"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642742145906	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 40396d2b4a515b695536774e776b593e -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileyVymNv\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:64748/devtools/browser/7e5c4573-d72e-4d82-b5cb-a9cb7252c5cc
+1642742148090	Marionette	INFO	Listening on port 64753
+1642742148479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642766655445	Marionette	INFO	Stopped listening on port 64753
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642766655555	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642766660469	geckodriver	INFO	Listening on 127.0.0.1:61611
+1642766663541	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "61612" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiletYCHfc"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642766664851	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 2b2f3c41564c68484a7842337e6e6965 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofiletYCHfc\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:61612/devtools/browser/188c79b0-45b0-4127-a4e4-6221e7c0af6c
+1642766667528	Marionette	INFO	Listening on port 61618
+1642766667793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642766699649	Marionette	INFO	Stopped listening on port 61618
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642766699951	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642766814910	geckodriver	INFO	Listening on 127.0.0.1:64924
+1642766817976	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "64925" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileCG59zL"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642766818616	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 382f69357654664022396a40644f4d40 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileCG59zL\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:64925/devtools/browser/3d451cb2-d672-46e3-aa48-0575625d90be
+1642766820827	Marionette	INFO	Listening on port 64930
+1642766821197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642766897534	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642770235996	Marionette	INFO	Stopped listening on port 64930
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642770236110	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642770720001	geckodriver	INFO	Listening on 127.0.0.1:52215
+1642770723066	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "52216" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilemSrp3R"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642770723706	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 647e3d7d3b4952223359325a42386d70 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilemSrp3R\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:52216/devtools/browser/47698417-63fb-43a0-ba65-e7242d9a1d2a
+1642770725994	Marionette	INFO	Listening on port 52224
+1642770726282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642771594043	Marionette	INFO	Stopped listening on port 52224
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642771594156	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642771674730	geckodriver	INFO	Listening on 127.0.0.1:58944
+1642771677774	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "58945" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileeTfSVp"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642771678404	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 677d3d345e683b467721534750363d35 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileeTfSVp\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:58945/devtools/browser/2b558f5f-b8db-401d-8ae5-7c9e9aac511e
+1642771680678	Marionette	INFO	Listening on port 58950
+1642771680955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642773365114	Marionette	INFO	Stopped listening on port 58950
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642773365215	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642773448752	geckodriver	INFO	Listening on 127.0.0.1:61184
+1642773451813	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "61185" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilerRQ0DV"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642773452461	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 232b66782a2c6c296b386d722f42522b -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofilerRQ0DV\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:61185/devtools/browser/7c2a0688-2a99-48e8-8d6d-c792bcc9b846
+1642773454693	Marionette	INFO	Listening on port 61190
+1642773455022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642774122678	Marionette	INFO	Stopped listening on port 61190
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642774122805	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1642774218332	geckodriver	INFO	Listening on 127.0.0.1:57121
+1642774221404	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "57122" "-no-remote" "-profile" "C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileY8AUIP"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1642774222048	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 239: Error: authenticate 54437c28726525764c317a2341664c73 -> 515 Authentication failed: Password did not match HashedControlPassword *or* authentication cookie.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jasonjia\\AppData\\Local\\Temp\\rust_mozprofileY8AUIP\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:57122/devtools/browser/95475417-7402-45b8-adc7-78c675d44612
+1642774224227	Marionette	INFO	Listening on port 57131
+1642774224617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+1642774752875	Marionette	INFO	Stopped listening on port 57131
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://torbutton/modules/tor-control-port.js, line 81: NS_ERROR_OFFLINE: Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIScriptableInputStream.available]
+!!! error running onStopped callback: TypeError: callback is not a function
+1642774753026	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
